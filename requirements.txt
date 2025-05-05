@@ -1,0 +1,8 @@
+Kivy==2.1.0
+KivyMD==1.1.1
+torch==2.1.0
+torchvision==0.15.0
+timm==0.9.0
+Pillow==9.1.1
+numpy==1.23.1
+glob2==0.7
