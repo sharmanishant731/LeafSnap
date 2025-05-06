@@ -84,7 +84,7 @@ LeafSnap/
 
 For questions, suggestions, or bug reports, please contact us:
 
-* rishabh4124@rla.du.ac.in
+* rishabhjain61002@gmail.com
 * sharmanishant731@gmail.com
 * goyalanshul1890@gmail.com
 
