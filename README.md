@@ -69,13 +69,29 @@ LeafSnap/
 ├── Montserrat-Regular.ttf     # Font for the app (Regular)
 ├── .gitattributes             # Git attributes file
 └── README.md                  # Project documentation
+``` 
+---
+
+## 📊 Model Performance (5-Fold Cross-Validation)
+
+| Metric           | Value                        |
+|------------------|------------------------------|
+| Avg Accuracy     | **97.30%**                   |
+| Accuracy 95% CI  | **96.79% – 97.80%**          |
+| Avg F1-Score     | **0.9723**                   |
+| F1-Score 95% CI  | **0.9668 – 0.9777**          |
+
+### Highlights:
+1. Validation accuracy peaked at **98.26%** in Fold 3.
+2. Consistently high F1-Scores across folds (≥ **0.9544**).
+3. Best models saved automatically when validation improved.
 
 ---
 
 ## 👨‍💻 Developers
 
 * Rishabh Jain
-* Nishant SHarma
+* Nishant Sharma
 * Girish Kumar
 
 ---
