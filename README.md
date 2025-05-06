@@ -69,3 +69,23 @@ LeafSnap/
 ├── Montserrat-Regular.ttf     # Font for the app (Regular)
 ├── .gitattributes             # Git attributes file
 └── README.md                  # Project documentation
+
+---
+
+## 👨‍💻 Developers
+
+* Rishabh Jain
+* Nishant SHarma
+* Girish Kumar
+
+---
+
+## 📬 Contact
+
+For questions, suggestions, or bug reports, please contact us:
+
+* rishabh4124@rla.du.ac.in
+* sharmanishant731@gmail.com
+* goyalanshul1890@gmail.com
+
+---
