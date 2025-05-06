@@ -52,6 +52,9 @@ Ensure you have Python 3.8+ installed on your machine.
 2. Click on **Predict** to identify the plant.
 3. The prediction will display the plant's name, scientific name, and a link for more information.
 
+## Supported Plant Classes
+The model can identify 97 different plant species including Aloe Vera, Neem, Tulsi, Mango, Hibiscus, and more. For the complete list of classes, check the [`class_labels.txt`](./class_labels.txt) file or refer to `className.py`.
+
 ## File Structure
 ```plaintext
 LeafSnap/
