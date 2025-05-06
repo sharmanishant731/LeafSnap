@@ -52,6 +52,14 @@ Ensure you have Python 3.8+ installed on your machine.
 2. Click on **Predict** to identify the plant.
 3. The prediction will display the plant's name, scientific name, and a link for more information.
 
+## Dataset Used for Training
+The dataset used for training the model consists of 97 plant species, specifically focusing on native Indian plant species. Each image is named according to the corresponding plant species label, and the dataset is divided into training, validation, and testing sets. The dataset includes high-quality images in .jpg and .png formats.
+The images were collected from various sources and labeled according to the plant species they represent, though no additional annotations such as scientific names or descriptions were provided in the original dataset.
+
+The images were collected from the following sources:
+1. [Indian Medicinal Leaves Image Dataset](https://data.mendeley.com/datasets/748f8jkphb/3): A collection of images representing various medicinal plants native to India.
+2. [Medicinal Plant Dataset (Augmented)](https://www.kaggle.com/datasets/vishnuoum/medicinal-plant-dataset-augmented?select=data): An augmented version of the dataset containing additional images for better training performance and generalization.
+
 ## Supported Plant Classes
 The model can identify 97 different plant species including Aloe Vera, Neem, Tulsi, Mango, Hibiscus, and more. For the complete list of classes, check the [`class_labels.txt`](./class_labels.txt) file or refer to `className.py`.
 
